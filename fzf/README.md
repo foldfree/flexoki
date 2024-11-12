@@ -21,12 +21,12 @@
 * Fish:
  
 	```shell
-	set -Ux FZF_DEFAULT_OPTS '
-		--color=fg:#B7B5AC,bg:#FFFCF0,hl:#100F0F
-		--color=fg+:#B7B5AC,bg+:#F2F0E5,hl+:#100F0F
-		--color=border:#AF3029,header:#100F0F,gutter:#FFFCF0
-		--color=spinner:#3AA99F,info:#3AA99F,separator:#F2F0E5
-		--color=pointer:#D0A215,marker:#D14D41,prompt:#D0A215"
+	set -Ux FZF_DEFAULT_OPTS "
+   --color=fg:#100F0F,bg:#FFFCF0,hl:#000000
+   --color=fg+:#6F6E69,bg+:#F2F0E5,hl+:#000000
+   --color=border:#AF3029,header:#100F0F,gutter:#FFFCF0
+   --color=spinner:#3AA99F,info:#3AA99F,separator:#F2F0E5
+   --color=pointer:#D0A215,marker:#D14D41,prompt:#D0A215"
 	```
 
 ## Dark
